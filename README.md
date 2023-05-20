@@ -19,7 +19,7 @@ I love to learning new things since I got acquainted with programming.
     <a href='https://github.com/monirulislam00?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/monirulislam00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/></a>
          <br>
-    <a href='https://www.linkedin.com/in/monirulislam00' target='_blank'>
+    <a href='https://www.linkedin.com/in/mohammad-monirul-islam-bb5569277/' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a> 
     <a href='mailto:mohammadmonir0153@gmail.com' target='_blank'>
