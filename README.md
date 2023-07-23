@@ -55,7 +55,6 @@ I love to learning new things since I got acquainted with programming.
 ## CODING STATS
 <div align='center'>
 
-# (![](https://github-readme-stats.vercel.app/api?username=monirulislam00&show_icons=true&theme=vue-dark))
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monirulislam00&theme=vue-dark)
 
