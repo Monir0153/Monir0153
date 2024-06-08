@@ -41,13 +41,10 @@ I love to learning new things since I got acquainted with programming.
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 	
 # 📊 GitHub Stats:
-<div align='center'>
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=monir0153&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-</div>
 
-
-## CODING STATS
-<div align='center'>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monir0153&theme=vue-dark)
